@@ -7,4 +7,4 @@ Here you can download the latest official releases of the **FileBridge PC Agent*
 - **FileBridge-Portable-x.x.x.exe** (Standalone Portable Single-File Executable)
 
 For more information and guides, please visit our official service page:
-https://aibelling.duckdns.org
+https://aibelling.com
